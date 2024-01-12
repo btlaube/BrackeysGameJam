@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 572b4e36dbe246a42a3435cee14993e7, type: 3}
+  m_Name: BlankTile
+  m_EditorClassIdentifier: 
+  cardFaceSprite: {fileID: -353430817, guid: 48c388d7bb9fa1b4eb1e1f07ea6faf6f, type: 3}
+  corruptedSprite: {fileID: -1651834580, guid: 48c388d7bb9fa1b4eb1e1f07ea6faf6f, type: 3}
+  cardBackSprite: {fileID: -1962800582, guid: 48c388d7bb9fa1b4eb1e1f07ea6faf6f, type: 3}
